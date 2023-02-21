@@ -1,6 +1,6 @@
 <?php 
 
-class Major 
+class StudyProgram 
 {
     public $name;
     public $description;
